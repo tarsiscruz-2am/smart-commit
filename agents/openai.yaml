@@ -1,0 +1,3 @@
+interface:
+  display_name: "Smart Commit"
+  short_description: "Plan and create logical, dependency-aware Git commits using implementation context."
